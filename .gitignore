@@ -1,0 +1,8 @@
+build/
+build-*/
+*.log
+hello
+thread_demo
+thread_demo_tsan
+hub_tsan
+hub_asan
